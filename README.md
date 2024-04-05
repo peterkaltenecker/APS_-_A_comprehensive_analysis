@@ -1,0 +1,9 @@
+# Autoimmune Polyglandular Syndrome - a comprehensive analysis
+This repository contains the complete codebase of all analyses that were conducted in this study to investigate APS (Autoimmune Polyglandular Syndrome), a complex autoimmune disease.<br>
+All results are published in the following article: ...link... <br>
+DOI: ...<br>
+<br>
+<br>
+For further information please see the article on the link above or contact the following people:
++ Corresponding author:
++ With questions regarding the analyses or the content of the repository:
