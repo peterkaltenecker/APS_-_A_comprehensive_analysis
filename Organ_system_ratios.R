@@ -101,7 +101,7 @@ Y2 = c(1, 2, 2, 3, 3, 3, 4, 4, 4, 4)
 
 df_lolPop <- data.frame(X, Y1, Y2)
 
-#lollipop plot
+# lollipop plot
 df_lolPop %>% 
   ggplot() +
   geom_segment(aes(x = X, xend = X, y = Y1, yend = Y2), 
