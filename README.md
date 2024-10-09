@@ -4,7 +4,7 @@ All results are published in the following article:<br>
 <br>
 **Systematic analysis and network mapping of disease associations in autoimmune polyglandular syndrome**<br>
 *Greta Pham-Dobor, Peter Kaltenecker, Viktoria Temesfoi, Laszlo Bajnok, Orsolya Nemes, Beata Bodis, Emese Mezosi*<br>
-**DOI**: ...link...<br>
+**DOI**: [https://doi.org/10.1210/clinem/dgae701](https://doi.org/10.1210/clinem/dgae701)<br>
 <br>
 <br>
 For further information please see the article on the link above or contact the following people:
