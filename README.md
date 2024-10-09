@@ -3,7 +3,8 @@ This repository contains the complete codebase of all analyses that were conduct
 All results are published in the following article:<br>
 <br>
 **Systematic analysis and network mapping of disease associations in autoimmune polyglandular syndrome**<br>
-*Greta Pham-Dobor, Peter Kaltenecker, Viktoria Temesfoi, Laszlo Bajnok, Orsolya Nemes, Beata Bodis, Emese Mezosi*<br>
+Greta Pham-Dobor, Peter Kaltenecker, Viktoria Temesfoi, Laszlo Bajnok, Orsolya Nemes, Beata Bodis, Emese Mezosi<br>
+*The Journal of Clinical Endocrinology & Metabolism*<br>
 **DOI**: [https://doi.org/10.1210/clinem/dgae701](https://doi.org/10.1210/clinem/dgae701)<br>
 <br>
 <br>
